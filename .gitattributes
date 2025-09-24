@@ -2,3 +2,4 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 readme.md annex.largefiles=nothing
+README.md annex.largefiles=nothing
