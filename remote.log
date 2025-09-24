@@ -1,1 +1,1 @@
-768825bd-96af-4883-bf58-f8b008699717 autoenable=true bucket=731b1d94-7332-46c6-ade7-0d6648ebece8 chunk=100mb datacenter=US encryption=none host=coscine-s3-01.data.fds.uni-due.de name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1758720214s
+768825bd-96af-4883-bf58-f8b008699717 autoenable=true bucket=731b1d94-7332-46c6-ade7-0d6648ebece8 chunk=100mb datacenter=US encryption=none host=coscine-s3-01.data.fds.uni-due.de name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1758722643s
